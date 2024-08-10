@@ -1,0 +1,5 @@
+dist/
+build/
+__pycache__/
+nodeprocess.egg-info/
+.venv/
