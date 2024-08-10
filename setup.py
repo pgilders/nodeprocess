@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'Node Process Community Detection'
 LONG_DESCRIPTION = 'Package for temporal community detection, using link data as well as correlations between processes on nodes'
 

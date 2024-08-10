@@ -1,1 +1,1 @@
-from nodeprocess import *
+from .nodeprocess import *
